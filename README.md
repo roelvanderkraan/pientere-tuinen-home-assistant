@@ -14,7 +14,7 @@ Deze integratie haalt bodemtemperatuur en bodemvochtigheid op van je Pientere Tu
 ## Functies
 - Bodemtemperatuur (°C)
 - Bodemvochtigheid (%)
-- Extra metadata: meetmoment, locatie, tuininfo
+- Extra metadata: meetmoment, locatie
 
 ---
 
