@@ -6,6 +6,7 @@ Deze integratie haalt bodemtemperatuur en bodemvochtigheid op van je Pientere Tu
 
 ### Aanbevolen installatie:
 Gebruik deze button om de Pientere Tuinen integratie toe te voegen via [HACS](https://my.home-assistant.io/redirect/supervisor_addon/?addon=cb646a50_get&repository_url=https%3A%2F%2Fgithub.com%2Fhacs%2Faddons).
+
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=roelvanderkraan&repository=pientere-tuinen-home-assistant&category=integration)
 
 ### Handmatig instellen
