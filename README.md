@@ -1,6 +1,8 @@
 # Pientere Tuinen – Home Assistant Integratie
 
-Deze integratie haalt bodemtemperatuur en bodemvochtigheid op van je Pientere Tuinen sensor via de GoodCitySense API.
+Deze Home Assistant integratie haalt bodemtemperatuur en bodemvochtigheid op van je Pientere Tuinen sensor via de GoodCitySense API.
+
+Heb je geen Home Assistant? Bekijk dan de sensor data van Pientere Tuinen via de [Pientere Tuin iPhone app](https://www.roelvanderkraan.nl/pienteretuin).
 
 ## Installatie via HACS
 
