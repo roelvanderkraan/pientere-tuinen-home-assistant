@@ -4,12 +4,18 @@ Deze integratie haalt bodemtemperatuur en bodemvochtigheid op van je Pientere Tu
 
 ## Installatie via HACS
 
+### Aanbevolen installatie:
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=roelvanderkraan&repository=https%3A%2F%2Fgithub.com%2Froelvanderkraan%2Fpientere-tuinen-home-assistant&category=integration)
+
+### Handmatig instellen
 1. Open **HACS** in Home Assistant.
 2. Ga naar **Integraties** → **Custom repositories**.
 3. Voeg deze repository toe als type **Integration**.
 4. Installeer de integratie via HACS.
-5. Ga naar **Instellingen → Apparaten & diensten** en voeg de integratie toe.
-6. Vul je API-sleutel in. Je vindt deze na inloggen op [Pientere Tuinen API](https://portal.goodcitysense.nl/api-subscriptions).
+
+## Integratie toevoegen
+1. Ga naar **Instellingen → Apparaten & diensten** en voeg de integratie toe.
+1. Vul je API-sleutel in. Je vindt deze na inloggen op [Pientere Tuinen API](https://portal.goodcitysense.nl/api-subscriptions).
 
 ## Functies
 - Bodemtemperatuur (°C)
