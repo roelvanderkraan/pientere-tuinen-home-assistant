@@ -2,9 +2,10 @@
   "domain": "pientere_tuinen",
   "name": "Pientere Tuinen",
   "version": "1.2.0",
-  "documentation": "https://portal.goodcitysense.nl/api-subscriptions/open-api/mijn-pientere-tuin",
+  "documentation": "https://github.com/roelvanderkraan/pientere-tuinen-home-assistant/",
+  "issue_tracker": "https://github.com/roelvanderkraan/pientere-tuinen-home-assistant/issues"
   "codeowners": [
-    "@jouwgithubnaam"
+    "@roelvanderkraan"
   ],
   "config_flow": true,
   "iot_class": "cloud_polling",
