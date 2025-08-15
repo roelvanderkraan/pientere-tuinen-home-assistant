@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pientere Tuinen",
+        "description": "Deze integratie is voor een **Pientere Tuinen**-sensor. Log in bij [Pientere Tuinen](https://portal.goodcitysense.nl/api-subscriptions) om je persoonlijke API-sleutel te vinden en vul deze hier in.",
+        "data": {
+          "api_key": "API-sleutel"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Ongeldige API-sleutel"
+    }
+  }
+}
