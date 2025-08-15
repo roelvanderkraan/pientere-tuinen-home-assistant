@@ -3,7 +3,7 @@
   "name": "Pientere Tuinen",
   "version": "1.2.0",
   "documentation": "https://github.com/roelvanderkraan/pientere-tuinen-home-assistant/",
-  "issue_tracker": "https://github.com/roelvanderkraan/pientere-tuinen-home-assistant/issues"
+  "issue_tracker": "https://github.com/roelvanderkraan/pientere-tuinen-home-assistant/issues",
   "codeowners": [
     "@roelvanderkraan"
   ],
